@@ -1,5 +1,7 @@
 # 📹 Repositório de Teste - Gravações
 
+![Status](https://img.shields.io/badge/status-arquivado-lightgrey)
+
 Este é um repositório de **teste e experimentação** para criação de telas e componentes visuais destinados a gravações para redes sociais (Instagram e TikTok).
 
 ## 🎯 Propósito
